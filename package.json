@@ -1,0 +1,16 @@
+{
+  "name": "es6-node-iterator",
+  "version": "1.0.0",
+  "description": "ES-6 iterator protocol for DOM NodeIterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "es6",
+    "node-iterator"
+  ],
+  "author": "Michał \"Ginden\" Wadas",
+  "license": "MIT"
+}
