@@ -9,8 +9,17 @@
   "keywords": [
     "dom",
     "es6",
-    "node-iterator"
+    "node-iterator",
+    "iterators"
   ],
   "author": "Michał \"Ginden\" Wadas",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ginden/es6-node-iterator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ginden/es6-node-iterator/issues"
+  },
+  "homepage": "https://github.com/Ginden/es6-node-iterator"
 }
