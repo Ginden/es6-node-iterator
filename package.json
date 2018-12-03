@@ -1,6 +1,6 @@
 {
   "name": "es6-node-iterator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES-6 iterator protocol for DOM NodeIterator",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/Ginden/es6-node-iterator/issues"
   },
+  "files": ["index.js"],
   "homepage": "https://github.com/Ginden/es6-node-iterator"
 }
