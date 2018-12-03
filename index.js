@@ -8,9 +8,9 @@
     }
 }(this, function (defDocument) {
     defDocument = defDocument || (typeof document === 'undefined' ? null : document);
-    console
+
     var iteratorSymbol = typeof Symbol === 'undefined' ? '@@iterator' : Symbol.iterator;
-    var objToString = ({}).toString;
+    var objToString = Object.prototype.toString;
     function getNext(nodeIterator) {
         var curr = nodeIterator.nextNode();
         if (curr)

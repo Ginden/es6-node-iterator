@@ -12,5 +12,7 @@ Makes NodeIterator compatible with ES6 iterator protocol.
 
 It can be used as AMD module.
 
-## What the fuck is NodeIterator?
-It's almost useless DOM API (but it can be used to retrieve Text, CData and Comments nodes). [You can read more on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document.createNodeIterator).
+## What is NodeIterator actually?
+It's almost useless DOM API (but it can be used to retrieve Text, CData and Comments nodes).
+
+[You can read more on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document.createNodeIterator).
